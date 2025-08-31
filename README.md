@@ -4,7 +4,7 @@ A simple and responsive weather application built using HTML, CSS, and JavaScrip
 
 ## 🌐 Live Demo
 
-👉 [Click here to try the Weather App](https://iktushar01.github.io/Weather-App-JS/)
+👉 [Click here to try the Weather App](https://citysky01.netlify.app/)
 
 ## 🚀 Features
 
